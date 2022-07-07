@@ -24,7 +24,7 @@ public class Control2_ex2 {
 		// num:1 ch:z 출력 -> a
 		// num:2 ch:z 출력 -> b
 	
-		
+		//study
 				
 		
 		
