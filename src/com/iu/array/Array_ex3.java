@@ -141,7 +141,7 @@ public class Array_ex3 {
 					int index=0;
 					for(int j=0;j<names.length;j++) {
 						if(j==i) {
-							index--;
+//							index--;
 							continue;
 
 						}
